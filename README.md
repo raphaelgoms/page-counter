@@ -1,2 +1,2 @@
 # page-counter
-Simple page counter project in Node.js
+Simple page hit counter project in Node.js

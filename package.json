@@ -1,0 +1,21 @@
+{
+  "name": "page-counter",
+  "version": "1.0.0",
+  "description": "Simple page hit counter",
+  "main": "index.js",
+  "scripts": {
+    "debug": "nodemon --trace-warnings ./index.js",
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelgoms/page-counter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelgoms/page-counter/issues"
+  },
+  "homepage": "https://github.com/raphaelgoms/page-counter#readme"
+}
